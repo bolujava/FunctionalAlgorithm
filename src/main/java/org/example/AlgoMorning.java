@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.*;
 
 //write a function that takes in an integer and return an array of the divisors but return
-// an empty arraylist if it is a primr number.
+// an empty arraylist if it is a prime number.
 public class AlgoMorning {
     public static ArrayList<Integer> divisors(int n) {
         if(n<=1){
